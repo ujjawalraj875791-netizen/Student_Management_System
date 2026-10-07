@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Aarav Sharma",
+        "age": 21,
+        "course": "M.Sc AI & BDA",
+        "email": "aarav@example.com",
+        "marks": 87.5
+    },
+    {
+        "student_id": "S002",
+        "name": "Priya Singh",
+        "age": 22,
+        "course": "MCA",
+        "email": "priya@example.com",
+        "marks": 92.0
+    },
+    {
+        "student_id": "S003",
+        "name": "Rahul Verma",
+        "age": 21,
+        "course": "M.Sc AI & BDA",
+        "email": "rahul@example.com",
+        "marks": 76.0
+    }
+]
